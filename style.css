@@ -11,12 +11,12 @@ html, body {
     justify-content: center;
 }
 .display{
-    background-color: blue;
+    background-color: rgb(31, 141, 231);
     width: 300px;
     height: 200px;
     text-align: center;
     line-height: 200px;
-    border: 10px solid yellow;
+    border: 10px solid black;
     border-radius: 10px;
     color: #fff;
     font-size: 7rem;
